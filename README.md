@@ -1,4 +1,4 @@
-#** Caps Lock Remap: Toggle & Control Key **
+#**Caps Lock Remap: Toggle & Control Key**
 
 ---
 
