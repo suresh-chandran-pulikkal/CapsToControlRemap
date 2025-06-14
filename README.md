@@ -1,4 +1,4 @@
-#**Caps Lock Remap: Toggle & Control Key**
+# **Caps Lock Remap: Toggle & Control Key**
 
 ---
 
@@ -15,7 +15,7 @@
 2. **Enable Auto Start on Windows** for persistence.
 3. **Enjoy an optimized Caps Lock key!**
 
-##❓ Troubleshooting
+## ❓Troubleshooting
 
 If something doesn’t work:
 - Check if the PowerToys is installed.
